@@ -7,6 +7,7 @@ public class _0315_Advance1 {
 				
 				if(((i*10+j)+(j*10+i)==99)) {
 					System.out.println(i+j+"+"+j+i+"=99");
+					System.out.println();
 				}
 			}
 		}
